@@ -1,0 +1,10 @@
+h1{
+    color: rgba(255, 255, 255, 0.863);
+    text-align: center;
+    
+}
+
+#oneCard{
+    margin-bottom:20px ;
+    background-color: rgba(226, 226, 226, 0.938);
+}
