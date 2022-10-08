@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/http//oussamaMSDK.github.io/ReactProject/static/css/main.7b93b63d.css",
+    "main.js": "/http//oussamaMSDK.github.io/ReactProject/static/js/main.fbcd41d7.js",
+    "static/js/787.af04e08f.chunk.js": "/http//oussamaMSDK.github.io/ReactProject/static/js/787.af04e08f.chunk.js",
+    "index.html": "/http//oussamaMSDK.github.io/ReactProject/index.html",
+    "main.7b93b63d.css.map": "/http//oussamaMSDK.github.io/ReactProject/static/css/main.7b93b63d.css.map",
+    "main.fbcd41d7.js.map": "/http//oussamaMSDK.github.io/ReactProject/static/js/main.fbcd41d7.js.map",
+    "787.af04e08f.chunk.js.map": "/http//oussamaMSDK.github.io/ReactProject/static/js/787.af04e08f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b93b63d.css",
+    "static/js/main.fbcd41d7.js"
+  ]
+}
